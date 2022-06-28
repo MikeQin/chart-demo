@@ -1,3 +1,16 @@
+# Chart Demo
+
+Demo charts:
+- Apex Chart
+- Lightweight Chart
+
+### Install chart libs
+```
+npm install lightweight-charts
+npm install react-apexcharts apexcharts
+```
+
+-----
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

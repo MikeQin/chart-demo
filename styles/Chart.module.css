@@ -1,0 +1,14 @@
+.chartMain {
+  margin: 0;
+  height: 100%;
+}
+
+.chartMain {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.chartContainer {
+  flex: 1;
+}

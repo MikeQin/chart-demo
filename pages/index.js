@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
+import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -17,8 +18,8 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          <Link href='/apex-chart'>Apex Chart</Link><br/>
+          <Link href='/chart'>Lightweight Chart</Link>
         </p>
 
         <div className={styles.grid}>
