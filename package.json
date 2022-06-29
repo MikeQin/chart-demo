@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@nextui-org/react": "^1.0.0-beta.9",
     "apexcharts": "^3.35.3",
     "lightweight-charts": "^3.8.0",
     "next": "12.1.6",

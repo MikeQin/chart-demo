@@ -9,6 +9,10 @@ Demo charts:
 npm install lightweight-charts
 npm install react-apexcharts apexcharts
 ```
+### Install NextUI
+```
+npm i @nextui-org/react
+```
 
 -----
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
